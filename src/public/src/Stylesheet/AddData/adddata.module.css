@@ -1,0 +1,34 @@
+.add-data-section h1{
+    margin-top: 3em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.add-card{
+    width: 80%;
+    margin: auto;
+    flex-direction: column;
+}
+.add-card form{
+    display: flex;
+    flex-direction: column;
+}
+.new-item-heading{
+    width: 80%;
+    margin: 10px auto;
+    cursor: pointer;
+}
+.submit-btn-box{
+    display: flex;
+    justify-content: center;
+}
+.submit-btn{
+    margin: 20px;
+    width: 100px;
+    height: 40px;
+    background-color: #000;
+    color: #Fff;
+    border: none;
+    border-radius: 10px;
+    
+}
